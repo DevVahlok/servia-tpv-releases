@@ -7,14 +7,13 @@ desde aquí.
 
 ## Descargar
 
-### [⬇ Descargar Servia TPV para Windows](https://github.com/DevVahlok/servia-tpv-releases/releases/latest/download/ServiaTPV-instalador.exe)
-
-Siempre descarga la última versión. Las notas de cada versión están en
-[Releases](https://github.com/DevVahlok/servia-tpv-releases/releases).
+El instalador de cada versión está en la sección **Releases** de este repositorio (a la derecha de esta página).
+Abre la versión marcada como **Latest** y descarga el archivo `ServiaTPV-X.Y.Z-instalador.exe` de su apartado
+*Assets*. Allí están también las notas de cada versión.
 
 ## Instalar
 
-1. Abre `ServiaTPV-instalador.exe`.
+1. Abre el instalador descargado (`ServiaTPV-X.Y.Z-instalador.exe`).
 2. Windows puede mostrar **«Windows protegió su PC»** porque el instalador no está firmado digitalmente.
    Pulsa **Más información → Ejecutar de todas formas**. Solo ocurre en la primera instalación.
 3. Sigue el asistente: se instala para tu usuario (no hace falta ser administrador) y crea accesos directos en el
